@@ -3,7 +3,7 @@
 
 ---
 
-## PedroSouza 📁
+## PedroSouza 
 <img src="https://github.com/user-attachments/assets/42527d92-3378-4de2-ad12-a52596e48467" alt="ilustração" min-width="400px" max-width="200px" width="200px" align="right" />
 
 Software Developer - student at [DESCOMPLICA](https://descomplica.com.br/faculdade/)

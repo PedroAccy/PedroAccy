@@ -8,5 +8,5 @@
 
 Software Developer - student at [DESCOMPLICA](https://descomplica.com.br/faculdade/)
 
-> #### *“Try to think of new ways to solve the old problems. Very often we look at something we have and say, 'I could make it better.' That's innovation.”*
+> #### *“Try to think of new ways to solve the old problems. Very often we look at something </br><br> we have and say, 'I could make it better.' That's innovation.”*
 > ― *Steve Wozniak*

@@ -3,7 +3,7 @@
 ---
 
 ## PedroSouza 📁
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
+<img src="https://github.com/user-attachments/assets/0d076aae-1289-48a6-89cc-02ce313b9813" alt="ilustração" min-width="400px" max-width="200px" width="200px" align="right" />
 
 Software Developer - student at [DESCOMPLICA](https://descomplica.com.br/faculdade/)
 
